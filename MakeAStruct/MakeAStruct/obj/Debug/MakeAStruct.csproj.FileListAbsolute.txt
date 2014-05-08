@@ -1,0 +1,6 @@
+c:\users\heather\documents\visual studio 2012\Projects\MakeAStruct\MakeAStruct\bin\Debug\MakeAStruct.exe.config
+c:\users\heather\documents\visual studio 2012\Projects\MakeAStruct\MakeAStruct\obj\Debug\MakeAStruct.csprojResolveAssemblyReference.cache
+c:\users\heather\documents\visual studio 2012\Projects\MakeAStruct\MakeAStruct\bin\Debug\MakeAStruct.exe
+c:\users\heather\documents\visual studio 2012\Projects\MakeAStruct\MakeAStruct\bin\Debug\MakeAStruct.pdb
+c:\users\heather\documents\visual studio 2012\Projects\MakeAStruct\MakeAStruct\obj\Debug\MakeAStruct.exe
+c:\users\heather\documents\visual studio 2012\Projects\MakeAStruct\MakeAStruct\obj\Debug\MakeAStruct.pdb

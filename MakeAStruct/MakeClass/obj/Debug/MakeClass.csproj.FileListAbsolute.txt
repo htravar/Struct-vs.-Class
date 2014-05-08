@@ -1,0 +1,2 @@
+c:\users\heather\documents\visual studio 2012\Projects\MakeAStruct\MakeClass\bin\Debug\MakeClass.exe.config
+c:\users\heather\documents\visual studio 2012\Projects\MakeAStruct\MakeClass\obj\Debug\MakeClass.csprojResolveAssemblyReference.cache
